@@ -24,3 +24,13 @@ Dostępne działania użytkownika:
   • W przypadku wyniku walki wymuszającego odrzucenie przedmiotu – wybór odrzucanego przedmiotu (spośród już posiadanych).
   
 <img width="811" alt="Zrzut ekranu 2024-04-17 o 14 58 27" src="https://github.com/kasiacichowska/GraFantasy/assets/161950668/9077c100-8cfa-465f-a263-b91379f21748">
+<img width="811" alt="Zrzut ekranu 2024-04-17 o 14 58 34" src="https://github.com/kasiacichowska/GraFantasy/assets/161950668/1e7a687c-376c-40d3-aea2-ae24d23a7308">
+<img width="811" alt="Zrzut ekranu 2024-04-17 o 14 58 41" src="https://github.com/kasiacichowska/GraFantasy/assets/161950668/1b720202-ed99-4a50-8375-cc3bdbd5e727">
+<img width="811" alt="Zrzut ekranu 2024-04-17 o 14 58 54" src="https://github.com/kasiacichowska/GraFantasy/assets/161950668/1bc7c046-d7c1-44c6-ab0b-2e00824ec96b">
+<img width="811" alt="Zrzut ekranu 2024-04-17 o 14 59 06" src="https://github.com/kasiacichowska/GraFantasy/assets/161950668/859e1e46-bf19-4f42-bb68-1f415c3502e7">
+<img width="811" alt="Zrzut ekranu 2024-04-17 o 14 59 14" src="https://github.com/kasiacichowska/GraFantasy/assets/161950668/180ce034-9dbe-4dcc-8129-0e6a9a48af68">
+<img width="811" alt="Zrzut ekranu 2024-04-17 o 14 59 21" src="https://github.com/kasiacichowska/GraFantasy/assets/161950668/1a0eec69-d2c3-4bf3-9841-a67b036f2a9d">
+<img width="811" alt="Zrzut ekranu 2024-04-17 o 14 59 33" src="https://github.com/kasiacichowska/GraFantasy/assets/161950668/b251b7a1-2575-450a-b507-5d366bab36c5">
+<img width="811" alt="Zrzut ekranu 2024-04-17 o 15 00 02" src="https://github.com/kasiacichowska/GraFantasy/assets/161950668/bddee783-6bea-4977-a3f7-af4bef28d98f">
+<img width="811" alt="Zrzut ekranu 2024-04-17 o 15 00 20" src="https://github.com/kasiacichowska/GraFantasy/assets/161950668/9500e90d-f868-4e28-9abd-84224b44ab50">
+
